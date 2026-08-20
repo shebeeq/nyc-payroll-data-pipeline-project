@@ -1,0 +1,15 @@
+{
+	"name": "adf-nycpayroll-shebeeq-aa",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "44f89d63-b88e-49ea-b73a-ac245a84992b",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
